@@ -1,2 +1,2 @@
 # LocalMind
-本地运行的 AI 文档助手——把模型完整放在你的电脑里运行,文档、提问与对话不上传服务器，确保绝对私密。
+Local AI Document Assistant – run the full model entirely on your computer. No documents, queries or conversations are uploaded to servers, guaranteeing complete privacy.
