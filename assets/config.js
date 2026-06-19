@@ -3,6 +3,3 @@
 // 方案 B：换成腾讯云 COS/对象存储直链，要求免登录、无广告、点击即下载。
 window.LOCALMIND_DOWNLOAD_URL =
 "https://github.com/evan12139/localMind/releases/latest/download/LocalMind-1.0.0-setup.exe";
-
-window.LOCALMIND_BACKUP_DOWNLOAD_URL =
-"https://ghproxy.com/https://github.com/evan12139/localMind/releases/latest/download/LocalMind-1.0.0-setup.exe";
